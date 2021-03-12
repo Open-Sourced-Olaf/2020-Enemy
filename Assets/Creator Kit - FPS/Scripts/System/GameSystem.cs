@@ -26,6 +26,7 @@ public class GameSystem : MonoBehaviour
     public int Score => m_Score;
 
     float m_Timer;
+    float m_SlowMotionScale = 0.2f;
     bool m_TimerRunning = false;
     
     int m_TargetCount;
@@ -208,5 +209,12 @@ public class GameSystem : MonoBehaviour
         m_Score += score;
 
         GameSystemInfo.Instance.UpdateScore(m_Score);
+    }
+
+    public IEnumerator SlowMotionSequence()
+    {
+        Time.timeScale = m_SlowMotionScale;
+        yield return new WaitForSecondsRealtime(1);
+        Time.timeScale = 1;
     }
 }
