@@ -6,3 +6,7 @@ This game is to give you, the player, the basic knowledge already collected abou
 Enough talking, how do I play?
 ...coming next...
 
+
+
+https://user-images.githubusercontent.com/34866653/111771324-896b8700-88d1-11eb-8434-bdfe667971db.mp4
+
