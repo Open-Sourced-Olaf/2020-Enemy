@@ -3,6 +3,6 @@ During the year 2020, Earthlings did not have a good time.:( One infinitesimal e
 
 This game is to give you, the player, the basic knowledge already collected about The 2020-Enemy(Covid19). You know what they say, to understand the enemy, you have to be one. Walk a mile in his(its?) shoes, metaphorically of course.! Be Covid19 and attack the human body. Beware the Homo Sapiens!!! They are the most dominant life forms in the entire milky way galaxy! They have all sorts of incredible magical tricks, also known as science, and to defend themselves, they can be cruel. You have been warned..! 
 
-Enough talking, how do I play?
-...coming next...
+## Enough talking, how do I play?
 
+It is simple. Grap your weapon and go on a mission to defeat the human white blood cells. The more of these you shoot, the better off you will be. Your point of entry is the mouth/nose, and then you have to find your way through, all the way to the lungs if you are to survive. Use**WSAD**keys for moving forward, backward, left, and right respectively. You can also use your keyboard arrows. 
