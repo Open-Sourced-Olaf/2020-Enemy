@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/Menu.unity
+    guid: fd5bcfcd600306f41a58c08b8d0479d1
+  - enabled: 1
     path: Assets/Creator Kit - FPS/Scenes/MyScene.unity
     guid: b49671444eca45544b508a52466dac46
   m_configObjects: {}
