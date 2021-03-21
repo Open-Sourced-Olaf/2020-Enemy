@@ -5,7 +5,50 @@ This game is to give you, the player, the basic knowledge already collected abou
 
 Enough talking, how do I play?
 
-It is simple. Grap your weapon and go on a mission to defeat the human blood cells (WBC,RBC). The more of these you shoot, the better off you will be. Your point of entry is the mouth/nose, and then you have to find your way through, all the way to the lungs if you are to survive. Use WSAD keys for moving forward, backward, left, and right respectively. You can use shift key to move faster. 
+It is simple. Grap your weapon(scroll mouse and use any weapon) and go on a mission to defeat the human blood cells (WBC, RBC). The more of these you shoot, the better off you will be. Your point of entry is the mouth/nose, and then you have to find your way through, all the way to the lungs if you are to survive. Use WSAD/arrow keys for moving forward, backward, left, and right respectively. You can use the shift key to move faster. Go ahead and reach your final destination. Let us know. Life is a marathon not a sprint. It's gonna be long but you will get there. 
+
+[Deployed Game](https://yvon.itch.io/the-2020-enemy)
 
 
+## Build Instructions
+
+- Clone this repository 
+- Add project to Unity(2020- Enemy is build in unity 2019.4.22f1(LTS) version) 
+- Go inside scenes folder and open My Scene
+- Hit the play button and have fun
+
+## How to contribute
+
+Contributions are always welcome. Feel free to fork and contribute to this project.
+
+```
+1. Fork this repository
+2. Clone the forked repository
+3. Navigate to your local repository
+4. Add project to Unity
+5. Navigate to my scene. Play around with it
+6. Add project repository as upstream remote
+6. Make your changes, test it and create a branch 
+7. Pull latest changes from upstream repo
+8. Commit your changes
+9. Push your changes to your fork
+10.Create a Pull Request then Relax and discuss
+```
+
+# Future game milestones
+
+- Have fun with Bezier curves and add wormhole effect
+- Work on designing enemies by creating 3D models in blender and import to game
+- Add glow text(Text Mesh) inside maze to guide player
+- Add multiplayer feature so that players can meet inside maze(Hint-Unity is about to release a new multiplayer package on April 7).
+- Add gorgeous designed weapons, dynamically lit pixel art style in this maze world
+- Create a new level2 70s retrofuture maze
+
+
+## Developers
+
+* [Yvon Manzi](https://github.com/yvonmanzi)
+* [Prashi Doval](https://github.com/prashi23)
+* [Bodhisha Thomas](https://github.com/bodhisha)
+* [Steven Tey](https://github.com/steven-tey)
 
