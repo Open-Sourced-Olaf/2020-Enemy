@@ -5,7 +5,7 @@ This game is to give you, the player, the basic knowledge already collected abou
 
 Enough talking, how do I play?
 
-It is simple. Grap your weapon(scroll mouse and use any weapon) and go on a mission to defeat the human blood cells (WBC, RBC). The more of these you shoot, the better off you will be. Your point of entry is the mouth/nose, and then you have to find your way through, all the way to the lungs if you are to survive. Use WSAD/arrow keys for moving forward, backward, left, and right respectively. You can use the shift key to move faster. Go ahead and reach your final destination. Let us know. Life is a marathon not a sprint. It's gonna be long but you will get there. 
+It is simple. Grab your weapon(scroll mouse and use any weapon) and go on a mission to defeat the human blood cells (WBC, RBC). The more of these you shoot, the better off you will be. Your point of entry is the mouth/nose, and then you have to find your way through, all the way to the lungs if you are to survive. Use WSAD/arrow keys for moving forward, backward, left, and right respectively. You can use the shift key to move faster. Go ahead and reach your final destination. Let us know. Life is a marathon not a sprint. It's gonna be long but you will get there. 
 
 [Deployed Game](https://yvon.itch.io/the-2020-enemy)
 
